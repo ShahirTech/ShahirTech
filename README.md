@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)]
 <!--<h1 align="center">Hi 👋, I'm Shahir Ahmed</h1>-->
 <img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shahir+Ahmed;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
-<h3 align="center">A passionate Programmer from Bangladesh</h3>
+<h3 align="center">A Passionate Programmer</h3>
 <img autoplay align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahirahmed03&label=Profile%20views&color=0e75b6&style=flat" alt="shahirahmed03" /> </p>
@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **HTML-CSS-JS**
 
-- 📫 How to reach me **shahir@email.com**
+- 📫 How to reach me **ShahirAhmed@gmail.com**
 
-- ⚡ Fun fact **I think i am nothing!!**
+- ⚡ Fun fact **I am burdened with glorious purpose!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
