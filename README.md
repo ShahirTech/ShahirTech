@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)]
+![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 <!--<h1 align="center">Hi 👋, I'm Shahir Ahmed</h1>-->
 <img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shahir+Ahmed;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
 <h3 align="center">A Passionate Programmer</h3>
