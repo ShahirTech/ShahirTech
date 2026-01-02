@@ -1,12 +1,12 @@
 ![MasterHead](https://github.com/ShahirAhmed03/Practice/blob/main/shahirgithub.gif)
 <!--<h1 align="center">Hi 👋, I'm Shahir Ahmed</h1>-->
-<img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shahir+Ahmed;Learning+Full+Stack+Web+Development;Studying+CSE...👨🏻‍💻;" style="width: 100%;">
-<h3 align="center">In The Process To Be A Engineer, Developer & Programmer</h3>
+<img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shahir+Ahmed;Learning+UI-UX+Web+Development;Studying+CSE...👨🏻‍💻;" style="width: 100%;">
+<h3 align="center">future Engineer, Developer & Programmer</h3>
 <img autoplay align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahirtech&label=Profile%20views&color=0e75b6&style=flat" alt="shahirtech" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://x.com/" target="blank"><img src="https://img.shields.io/x/follow/?logo=x&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning *web development*
 
@@ -30,10 +30,6 @@
 <img src="https://img.shields.io/badge/Codeforce-0A66C2?style=for-the-badge&logo=Codeforce&logoColor=white" alt="Codeforce" /></a>
 <a href="https://www.hackerrank.com/profile/" >
 <img src="https://img.shields.io/badge/HackerRank-0A66C2?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>
-<a href="https://vjudge.net/user/" >
-<img src="https://img.shields.io/badge/Vertual Judge-0A66C2?style=for-the-badge&logo=Virtual Judge&logoColor=white" alt="Virtual Judge" /></a>
-<a href="https://www.hackerearth.com/@" >
-<img src="https://img.shields.io/badge/Hacker Earth-0A66C2?style=for-the-badge&logo=hacker Earth&logoColor=white" alt="Hacker Earth" /></a>
 <a href="https://judge.beecrowd.com/en/profile/" >
 <img src="https://img.shields.io/badge/Beecrowd-0A66C2?style=for-the-badge&logo=Beecrowd&logoColor=white" alt="Beecrowd" /></a>
 
